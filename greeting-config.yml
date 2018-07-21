@@ -3,10 +3,6 @@ security:
     enabled: false
 
 management:
-  endpoint:
-    web:
-      exposure:
-        include: *
   security:
     enabled: false
 
